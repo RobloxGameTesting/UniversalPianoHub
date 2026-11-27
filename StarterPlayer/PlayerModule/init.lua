@@ -1,0 +1,3 @@
+return {
+	ControlModule = { Enabled = true }
+}
